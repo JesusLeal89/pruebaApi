@@ -1,0 +1,25 @@
+{
+    "Clientes": [
+        {
+            "id": "1",
+            "nombre": "Jesus Jahir",
+            "apellidoPaterno": "Leal",
+            "apellidoMaterno": "Avila",
+            "correo": "jesus@hotmail.com",
+            "fechaNacimiento": "04/05/98",
+            "telefono": "88888188",
+            "direccion1": "Victoria",
+            "direccion2": "Zaragoza",
+            "codigoPostal": "34000",
+            "pais": "México",
+            "estado": "Durango"
+        }
+    ],
+    "Ticket": [
+        {
+            "id": "1",
+            "fecha": "20 de septiembre del 2019",
+            "cantidad": "$2000"
+        }
+    ]
+}
