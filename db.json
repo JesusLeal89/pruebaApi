@@ -264,6 +264,21 @@
             "id": "2",
             "fecha": "10 de octubre del 2018",
             "cantidad": "$1500"
+        },
+        {
+            "id": "3",
+            "fecha": "10 de octubre del 2018",
+            "cantidad": "$1500"
+        },
+        {
+            "id": "4",
+            "fecha": "10 de octubre del 2018",
+            "cantidad": "$1500"
+        },
+        {
+            "id": "5",
+            "fecha": "10 de octubre del 2018",
+            "cantidad": "$1500"
         }
     ]
 }
