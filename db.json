@@ -5,6 +5,7 @@
             "nombre": "Jesus Jahir",
             "apellidoPaterno": "Leal",
             "apellidoMaterno": "Avila",
+            "genero": "Masculino",
             "correo": "jesus@hotmail.com",
             "fechaNacimiento": "04/05/98",
             "telefono": "88888188",
@@ -13,6 +14,244 @@
             "codigoPostal": "34000",
             "pais": "México",
             "estado": "Durango"
+        },
+        {
+
+            "id": 2,
+            "nombre": "Lynne",
+            "apellidoPaterno": "Hunt",
+            "apellidoMaterno": "Walter",
+            "genero": "M",
+            "correo": "leslie@kirk.pf",
+            "fechaNacimiento": "04/05/99",
+            "telefono": "1263126",
+            "direccion1": "Zacatecas",
+            "direccion2": "-----",
+            "codigoPostal": "34001",
+            "pais": "México",
+            "estado": "Jalisco"
+        
+        },
+        {
+        
+            "id": 3,
+            "nombre": "Martin",
+            "apellidoPaterno": "Starr",
+            "apellidoMaterno": "Allison",
+            "genero": "F",
+            "correo": "julia@lindsay.hr",
+            "fechaNacimiento": "02/04/98",
+            "telefono": "12371623",
+            "direccion1": "Cocos",
+            "direccion2": "-------",
+            "codigoPostal": "43002",
+            "pais": "México",
+            "estado": "Jalisco"
+        
+        },
+        {
+        
+            "id": 4,
+            "nombre": "Sherri",
+            "apellidoPaterno": "Blum",
+            "apellidoMaterno": "Carey",
+            "genero": "Jalisco",
+            "correo": "christopher@davidson.gn",
+            "fechaNacimiento": "datebirth",
+            "telefono": "12314354",
+            "direccion1": "Haiti",
+            "direccion2": "-------",
+            "codigoPostal": "34004",
+            "pais": "México",
+            "estado": "Sinaloa"
+        
+        },
+        {
+        
+            "id": 5,
+            "nombre": "Leigh",
+            "apellidoPaterno": "Fox",
+            "apellidoMaterno": "Godfrey",
+            "genero": "undefined",
+            "correo": "tracey@hamilton.ir",
+            "fechaNacimiento": "datebirth",
+            "telefono": "6272736456",
+            "direccion1": "Cancun",
+            "direccion2": "------",
+            "codigoPostal": "34005",
+            "pais": "México",
+            "estado": "Nuevo Leon"
+        
+        },
+        {
+        
+            "id": 6,
+            "nombre": "Calvin",
+            "apellidoPaterno": "Dyer",
+            "apellidoMaterno": "Nixon",
+            "genero": "M",
+            "correo": "kelly@washington.vu",
+            "fechaNacimiento": "datebirth",
+            "telefono": "76473674",
+            "direccion1": "Ramirez",
+            "direccion2": "------",
+            "codigoPostal": "34010",
+            "pais": "México",
+            "estado": "Chiapas"
+        
+        },
+        {
+        
+            "id": 7,
+            "nombre": "Gwendolyn",
+            "apellidoPaterno": "Kramer",
+            "apellidoMaterno": "Scott",
+            "genero": "M",
+            "correo": "marguerite@phillips.sd",
+            "fechaNacimiento": "datebirth",
+            "telefono": "98239845",
+            "direccion1": "Victoria",
+            "direccion2": "-----",
+            "codigoPostal": "34006",
+            "pais": "México",
+            "estado": "Sonora"
+        
+        },
+        {
+        
+            "id": 8,
+            "nombre": "Laurence",
+            "apellidoPaterno": "Hayes",
+            "apellidoMaterno": "Lutz",
+            "genero": "F",
+            "correo": "katherine@watts.cl",
+            "fechaNacimiento": "datebirth",
+            "telefono": "823944435",
+            "direccion1": "Zaragoza",
+            "direccion2": "-----",
+            "codigoPostal": "34015",
+            "pais": "México",
+            "estado": "Guerrero"
+        
+        },
+        {
+        
+            "id": 9,
+            "nombre": "Kurt",
+            "apellidoPaterno": "McMillan",
+            "apellidoMaterno": "Bowers",
+            "genero": "F",
+            "correo": "carrie@dale.er",
+            "fechaNacimiento": "datebirth",
+            "telefono": "234872834",
+            "direccion1": "Paloma",
+            "direccion2": "",
+            "codigoPostal": "40595",
+            "pais": "México",
+            "estado": "Sonora"
+        
+        },
+        {
+        
+            "id": 10,
+            "nombre": "Mike",
+            "apellidoPaterno": "McKenzie",
+            "apellidoMaterno": "Dickinson",
+            "genero": "M",
+            "correo": "amy@kaplan.se",
+            "fechaNacimiento": "datebirth",
+            "telefono": "8273845",
+            "direccion1": "Negrete",
+            "direccion2": "-----",
+            "codigoPostal": "34111",
+            "pais": "México",
+            "estado": "Guerrero"
+        
+        },
+        {
+        
+            "id": 11,
+            "nombre": "Florence",
+            "apellidoPaterno": "Moon",
+            "apellidoMaterno": "Cherry",
+            "genero": "M",
+            "correo": "clifford@goldstein.vn",
+            "fechaNacimiento": "datebirth",
+            "telefono": "34534535",
+            "direccion1": "Madero",
+            "direccion2": "-----",
+            "codigoPostal": "12333",
+            "pais": "México",
+            "estado": "Jalisco"
+        
+        },
+        {
+        
+            "id": 12,
+            "nombre": "Glenda",
+            "apellidoPaterno": "Jennings",
+            "apellidoMaterno": "Hernandez",
+            "genero": "F",
+            "correo": "alex@miles.aw",
+            "fechaNacimiento": "datebirth",
+            "telefono": "234234243",
+            "direccion1": "Ramirez",
+            "direccion2": "-----",
+            "codigoPostal": "25252",
+            "pais": "México",
+            "estado": "Zacatecas"
+        
+        },
+        {
+        
+            "id": 13,
+            "nombre": "Albert",
+            "apellidoPaterno": "Hamilton",
+            "apellidoMaterno": "Wolf",
+            "genero": "M",
+            "correo": "maria@guthrie.al",
+            "fechaNacimiento": "datebirth",
+            "telefono": "8273423",
+            "direccion1": "Paloma",
+            "direccion2": "-----",
+            "codigoPostal": "45555",
+            "pais": "México",
+            "estado": "Zacatecas"
+        
+        },
+        {
+        
+            "id": 14,
+            "nombre": "Billy",
+            "apellidoPaterno": "O",
+            "apellidoMaterno": "Ball",
+            "genero": "M",
+            "correo": "floyd@adkins.ss",
+            "fechaNacimiento": "datebirth",
+            "telefono": "34534534",
+            "direccion1": "Cocos",
+            "direccion2": "-----",
+            "codigoPostal": "12333",
+            "pais": "México",
+            "estado": "Sonora"
+        
+        },
+        {
+        
+            "id": 15,
+            "nombre": "Marvin",
+            "apellidoPaterno": "Vick",
+            "apellidoMaterno": "Barton",
+            "genero": "undefined",
+            "correo": "evelyn@davidson.bm",
+            "fechaNacimiento": "datebirth",
+            "telefono": "929238",
+            "direccion1": "Victoria",
+            "direccion2": "-----",
+            "codigoPostal": "11111",
+            "pais": "México",
+            "estado": "Chiapas"
+        
         }
     ],
     "Ticket": [
@@ -20,6 +259,11 @@
             "id": "1",
             "fecha": "20 de septiembre del 2019",
             "cantidad": "$2000"
+        },
+        {
+            "id": "2",
+            "fecha": "10 de octubre del 2018",
+            "cantidad": "$1500"
         }
     ]
 }
