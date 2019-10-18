@@ -13,7 +13,8 @@
             "direccion2": "Zaragoza",
             "codigoPostal": "34000",
             "pais": "México",
-            "estado": "Durango"
+            "estado": "Durango",
+            "status": "Activo"
         },
         {
 
@@ -29,8 +30,8 @@
             "direccion2": "-----",
             "codigoPostal": "34001",
             "pais": "México",
-            "estado": "Jalisco"
-        
+            "estado": "Jalisco",
+            "status": "Activo"
         },
         {
         
@@ -46,7 +47,8 @@
             "direccion2": "-------",
             "codigoPostal": "43002",
             "pais": "México",
-            "estado": "Jalisco"
+            "estado": "Jalisco",
+            "status": "Activo"
         
         },
         {
@@ -63,7 +65,8 @@
             "direccion2": "-------",
             "codigoPostal": "34004",
             "pais": "México",
-            "estado": "Sinaloa"
+            "estado": "Sinaloa",
+            "status": "Activo"
         
         },
         {
@@ -80,8 +83,8 @@
             "direccion2": "------",
             "codigoPostal": "34005",
             "pais": "México",
-            "estado": "Nuevo Leon"
-        
+            "estado": "Nuevo Leon",
+            "status": "Activo"
         },
         {
         
@@ -97,8 +100,8 @@
             "direccion2": "------",
             "codigoPostal": "34010",
             "pais": "México",
-            "estado": "Chiapas"
-        
+            "estado": "Chiapas",
+            "status": "Inactivo"
         },
         {
         
@@ -114,8 +117,8 @@
             "direccion2": "-----",
             "codigoPostal": "34006",
             "pais": "México",
-            "estado": "Sonora"
-        
+            "estado": "Sonora",
+            "status": "Inactivo"
         },
         {
         
@@ -131,8 +134,8 @@
             "direccion2": "-----",
             "codigoPostal": "34015",
             "pais": "México",
-            "estado": "Guerrero"
-        
+            "estado": "Guerrero",
+            "status": "Inactivo"
         },
         {
         
@@ -148,8 +151,8 @@
             "direccion2": "",
             "codigoPostal": "40595",
             "pais": "México",
-            "estado": "Sonora"
-        
+            "estado": "Sonora",
+            "status": "Inactivo"
         },
         {
         
@@ -165,8 +168,8 @@
             "direccion2": "-----",
             "codigoPostal": "34111",
             "pais": "México",
-            "estado": "Guerrero"
-        
+            "estado": "Guerrero",
+            "status": "Inactivo"
         },
         {
         
@@ -182,8 +185,8 @@
             "direccion2": "-----",
             "codigoPostal": "12333",
             "pais": "México",
-            "estado": "Jalisco"
-        
+            "estado": "Jalisco",
+            "status": "Baja"        
         },
         {
         
@@ -199,8 +202,8 @@
             "direccion2": "-----",
             "codigoPostal": "25252",
             "pais": "México",
-            "estado": "Zacatecas"
-        
+            "estado": "Zacatecas",
+            "status": "Baja"
         },
         {
         
@@ -216,8 +219,8 @@
             "direccion2": "-----",
             "codigoPostal": "45555",
             "pais": "México",
-            "estado": "Zacatecas"
-        
+            "estado": "Zacatecas",
+            "status": "Baja"
         },
         {
         
@@ -233,8 +236,8 @@
             "direccion2": "-----",
             "codigoPostal": "12333",
             "pais": "México",
-            "estado": "Sonora"
-        
+            "estado": "Sonora",
+            "status": "Baja"
         },
         {
         
@@ -250,8 +253,8 @@
             "direccion2": "-----",
             "codigoPostal": "11111",
             "pais": "México",
-            "estado": "Chiapas"
-        
+            "estado": "Chiapas",
+            "status": "Baja"
         }
     ],
     "Ticket": [
