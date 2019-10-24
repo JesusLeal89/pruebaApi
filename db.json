@@ -50,7 +50,7 @@
             "codigoPostal": "43002",
             "pais": "México",
             "estado": "Jalisco",
-            "status": "Activo",
+            "status": "Inactivo",
             "foto": "https://cdnmundo2.img.sputniknews.com/images//108896/46/1088964675.jpg"
         
         },
@@ -69,7 +69,7 @@
             "codigoPostal": "34004",
             "pais": "México",
             "estado": "Sinaloa",
-            "status": "Activo",
+            "status": "Baja",
             "foto": "https://mentes.com.co/sitio/wp-content/uploads/2018/09/4.jpg"
         
         },
@@ -88,7 +88,25 @@
             "codigoPostal": "34005",
             "pais": "México",
             "estado": "Nuevo Leon",
-            "status": "Activo",
+            "status": "Baja",
+            "foto": "http://beautyfarm-schoenheitsfarm.de/wp-content/uploads/2018/04/526142422.jpg"
+        },
+        {
+        
+            "id": 5,
+            "nombre": "Leigh",
+            "apellidoPaterno": "Fox",
+            "apellidoMaterno": "Godfrey",
+            "genero": "undefined",
+            "correo": "tracey@hamilton.ir",
+            "fechaNacimiento": "datebirth",
+            "telefono": "6272736456",
+            "direccion1": "Cancun",
+            "direccion2": "------",
+            "codigoPostal": "34005",
+            "pais": "México",
+            "estado": "Nuevo Leon",
+            "status": "Inactivo",
             "foto": "http://beautyfarm-schoenheitsfarm.de/wp-content/uploads/2018/04/526142422.jpg"
         }
     ],
