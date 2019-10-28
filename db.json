@@ -1,6 +1,22 @@
 {
     "Clientes": [
-        
+        {
+            "id": "1",
+            "nombre": "Jesus Jahir",
+            "apellidoPaterno": "Leal",
+            "apellidoMaterno": "Avila",
+            "genero": "Masculino",
+            "correo": "jesus@hotmail.com",
+            "fechaNacimiento": "04/05/98",
+            "telefono": "88888188",
+            "direccion1": "Victoria",
+            "direccion2": "Zaragoza",
+            "codigoPostal": "34000",
+            "pais": "México",
+            "estado": "Durango",
+            "status": "Activo",
+            "foto": "https://ichef.bbci.co.uk/news/660/cpsprodpb/E225/production/_93339875_obamalaughing.jpg"
+        }
     ],
     "Ticket": [
         {
